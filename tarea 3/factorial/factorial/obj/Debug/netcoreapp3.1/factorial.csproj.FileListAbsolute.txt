@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\bin\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.genruntimeconfig.cache

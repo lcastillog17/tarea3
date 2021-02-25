@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\bin\Debug\netcoreapp3.1\5promedad.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\bin\Debug\netcoreapp3.1\5promedad.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\bin\Debug\netcoreapp3.1\5promedad.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\bin\Debug\netcoreapp3.1\5promedad.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\bin\Debug\netcoreapp3.1\5promedad.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\bin\Debug\netcoreapp3.1\5promedad.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\obj\Debug\netcoreapp3.1\5promedad.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\obj\Debug\netcoreapp3.1\5promedad.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\obj\Debug\netcoreapp3.1\5promedad.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\obj\Debug\netcoreapp3.1\5promedad.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\obj\Debug\netcoreapp3.1\5promedad.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\obj\Debug\netcoreapp3.1\5promedad.genruntimeconfig.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\5promedad\5promedad\obj\Debug\netcoreapp3.1\5promedad.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\bin\Debug\netcoreapp3.1\3impuesto.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\bin\Debug\netcoreapp3.1\3impuesto.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\bin\Debug\netcoreapp3.1\3impuesto.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\bin\Debug\netcoreapp3.1\3impuesto.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\bin\Debug\netcoreapp3.1\3impuesto.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\bin\Debug\netcoreapp3.1\3impuesto.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\obj\Debug\netcoreapp3.1\3impuesto.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\obj\Debug\netcoreapp3.1\3impuesto.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\obj\Debug\netcoreapp3.1\3impuesto.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\obj\Debug\netcoreapp3.1\3impuesto.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\obj\Debug\netcoreapp3.1\3impuesto.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\obj\Debug\netcoreapp3.1\3impuesto.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\3impuesto\3impuesto\obj\Debug\netcoreapp3.1\3impuesto.genruntimeconfig.cache

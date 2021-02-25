@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\obj\Debug\netcoreapp3.1\4numprimos.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\obj\Debug\netcoreapp3.1\4numprimos.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\obj\Debug\netcoreapp3.1\4numprimos.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\obj\Debug\netcoreapp3.1\4numprimos.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\bin\Debug\netcoreapp3.1\4numprimos.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\bin\Debug\netcoreapp3.1\4numprimos.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\bin\Debug\netcoreapp3.1\4numprimos.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\bin\Debug\netcoreapp3.1\4numprimos.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\bin\Debug\netcoreapp3.1\4numprimos.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\bin\Debug\netcoreapp3.1\4numprimos.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\obj\Debug\netcoreapp3.1\4numprimos.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\obj\Debug\netcoreapp3.1\4numprimos.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\4numprimos\4numprimos\obj\Debug\netcoreapp3.1\4numprimos.genruntimeconfig.cache

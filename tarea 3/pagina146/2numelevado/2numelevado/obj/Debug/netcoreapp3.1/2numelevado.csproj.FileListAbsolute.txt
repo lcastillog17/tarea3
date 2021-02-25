@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\bin\Debug\netcoreapp3.1\2numelevado.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\bin\Debug\netcoreapp3.1\2numelevado.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\bin\Debug\netcoreapp3.1\2numelevado.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\bin\Debug\netcoreapp3.1\2numelevado.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\bin\Debug\netcoreapp3.1\2numelevado.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\bin\Debug\netcoreapp3.1\2numelevado.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\obj\Debug\netcoreapp3.1\2numelevado.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\obj\Debug\netcoreapp3.1\2numelevado.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\obj\Debug\netcoreapp3.1\2numelevado.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\obj\Debug\netcoreapp3.1\2numelevado.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\obj\Debug\netcoreapp3.1\2numelevado.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\obj\Debug\netcoreapp3.1\2numelevado.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\2numelevado\2numelevado\obj\Debug\netcoreapp3.1\2numelevado.genruntimeconfig.cache

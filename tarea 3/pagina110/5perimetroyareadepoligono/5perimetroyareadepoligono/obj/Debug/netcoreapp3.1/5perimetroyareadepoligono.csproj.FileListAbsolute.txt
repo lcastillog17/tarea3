@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\obj\Debug\netcoreapp3.1\5perimetroyareadepoligono.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\obj\Debug\netcoreapp3.1\5perimetroyareadepoligono.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\obj\Debug\netcoreapp3.1\5perimetroyareadepoligono.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\obj\Debug\netcoreapp3.1\5perimetroyareadepoligono.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\bin\Debug\netcoreapp3.1\5perimetroyareadepoligono.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\bin\Debug\netcoreapp3.1\5perimetroyareadepoligono.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\bin\Debug\netcoreapp3.1\5perimetroyareadepoligono.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\bin\Debug\netcoreapp3.1\5perimetroyareadepoligono.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\bin\Debug\netcoreapp3.1\5perimetroyareadepoligono.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\bin\Debug\netcoreapp3.1\5perimetroyareadepoligono.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\obj\Debug\netcoreapp3.1\5perimetroyareadepoligono.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\obj\Debug\netcoreapp3.1\5perimetroyareadepoligono.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\5perimetroyareadepoligono\5perimetroyareadepoligono\obj\Debug\netcoreapp3.1\5perimetroyareadepoligono.genruntimeconfig.cache

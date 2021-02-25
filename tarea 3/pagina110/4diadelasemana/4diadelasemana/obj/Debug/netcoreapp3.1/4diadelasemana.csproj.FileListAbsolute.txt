@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\bin\Debug\netcoreapp3.1\4diadelasemana.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\bin\Debug\netcoreapp3.1\4diadelasemana.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\bin\Debug\netcoreapp3.1\4diadelasemana.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\bin\Debug\netcoreapp3.1\4diadelasemana.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\bin\Debug\netcoreapp3.1\4diadelasemana.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\bin\Debug\netcoreapp3.1\4diadelasemana.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\obj\Debug\netcoreapp3.1\4diadelasemana.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\obj\Debug\netcoreapp3.1\4diadelasemana.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\obj\Debug\netcoreapp3.1\4diadelasemana.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\obj\Debug\netcoreapp3.1\4diadelasemana.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\obj\Debug\netcoreapp3.1\4diadelasemana.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\obj\Debug\netcoreapp3.1\4diadelasemana.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\4diadelasemana\4diadelasemana\obj\Debug\netcoreapp3.1\4diadelasemana.genruntimeconfig.cache

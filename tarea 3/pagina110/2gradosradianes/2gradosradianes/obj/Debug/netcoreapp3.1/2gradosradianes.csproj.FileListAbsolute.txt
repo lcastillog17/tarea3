@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\bin\Debug\netcoreapp3.1\2gradosradianes.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\bin\Debug\netcoreapp3.1\2gradosradianes.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\bin\Debug\netcoreapp3.1\2gradosradianes.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\bin\Debug\netcoreapp3.1\2gradosradianes.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\bin\Debug\netcoreapp3.1\2gradosradianes.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\bin\Debug\netcoreapp3.1\2gradosradianes.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\obj\Debug\netcoreapp3.1\2gradosradianes.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\obj\Debug\netcoreapp3.1\2gradosradianes.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\obj\Debug\netcoreapp3.1\2gradosradianes.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\obj\Debug\netcoreapp3.1\2gradosradianes.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\obj\Debug\netcoreapp3.1\2gradosradianes.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\obj\Debug\netcoreapp3.1\2gradosradianes.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\2gradosradianes\2gradosradianes\obj\Debug\netcoreapp3.1\2gradosradianes.genruntimeconfig.cache

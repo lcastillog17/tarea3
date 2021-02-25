@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\bin\Debug\netcoreapp3.1\1tablamultiplicar.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\bin\Debug\netcoreapp3.1\1tablamultiplicar.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\bin\Debug\netcoreapp3.1\1tablamultiplicar.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\bin\Debug\netcoreapp3.1\1tablamultiplicar.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\bin\Debug\netcoreapp3.1\1tablamultiplicar.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\bin\Debug\netcoreapp3.1\1tablamultiplicar.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\obj\Debug\netcoreapp3.1\1tablamultiplicar.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\obj\Debug\netcoreapp3.1\1tablamultiplicar.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\obj\Debug\netcoreapp3.1\1tablamultiplicar.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\obj\Debug\netcoreapp3.1\1tablamultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\obj\Debug\netcoreapp3.1\1tablamultiplicar.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\obj\Debug\netcoreapp3.1\1tablamultiplicar.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\tarea pag 110 y 146 del libro\pagina146\1tablamultiplicar\1tablamultiplicar\obj\Debug\netcoreapp3.1\1tablamultiplicar.genruntimeconfig.cache
