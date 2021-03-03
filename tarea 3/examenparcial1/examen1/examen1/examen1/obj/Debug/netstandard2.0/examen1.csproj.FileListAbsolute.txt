@@ -1,0 +1,16 @@
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\bin\Debug\netstandard2.0\examen1.deps.json
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\bin\Debug\netstandard2.0\examen1.dll
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\bin\Debug\netstandard2.0\ref\examen1.dll
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\bin\Debug\netstandard2.0\examen1.pdb
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\examen1.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\adivinanum.xaml.g.cs
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\examen1.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\examen1.AssemblyInfo.cs
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\examen1.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\examen1.dll
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\ref\examen1.dll
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\examen1.pdb
+C:\Users\linda\Desktop\parcial 1 xamarin\examen1\examen1\examen1\obj\Debug\netstandard2.0\adivinacumple.xaml.g.cs

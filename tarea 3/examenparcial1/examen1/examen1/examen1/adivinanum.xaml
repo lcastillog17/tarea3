@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="examen1.adivinanum">
+    <ContentPage.Content>
+        <StackLayout Background="#61615D ">
+            <Frame BackgroundColor="Black" Padding="24" CornerRadius="0" HorizontalOptions="Center" >
+                <Label Text="           ¡RETAME!    ADIVINO EL NUMERO QUE PIENSAS: " HorizontalOptions="CenterAndExpand" TextColor="White" FontSize="30"/>
+            </Frame>
+            <Label Text="Instrucciones: " TextColor="black " FontSize="Title" Padding="30,10,30,10"/>
+            <Label Text="Piense en cualquier numero: " Padding="30,0,30,0" FontSize="16" TextColor="White" Background="Lightblue" HorizontalOptions="CenterAndExpand"/>
+            <Label Text="El numero multipliquelo por 2:" Padding="30,0,30,0" FontSize="16" TextColor="White" Background="pink" HorizontalOptions="CenterAndExpand"/>
+            <Label Text="Al resultado anterior sumele 8:" Padding="30,0,30,0" FontSize="16" TextColor="White" Background="#D9AFE7" HorizontalOptions="CenterAndExpand"/>
+            <Label Text="El resultado multipliquelo por 5:" Padding="30,0,30,0" FontSize="16" TextColor="White" Background="Lightblue" HorizontalOptions="CenterAndExpand"/>
+            
+                <Label Text="--------------------------------------------------------------------- " TextColor="White" Padding="30,0,30,10" FontSize="16" />
+                <Label Text="Ingrese el resultado de todas las operaciones anteriores: " Padding="30,0,30,0" FontSize="16" HorizontalOptions="CenterAndExpand" TextColor="Black"/>
+        
+            <Entry Placeholder="Ingrese el resultado" x:Name="num1" HorizontalOptions="Center" Keyboard="Numeric"/>
+            <Label Text="El numero pensado es: " TextColor="black " Padding="30,10,30,10" />
+            <Entry Placeholder="El numero es: " x:Name="nume" HorizontalOptions="Center" IsEnabled="False"/>
+            <Button Text="Adivinar" Clicked="Button_Clicked" HorizontalOptions="Center" Background="black" TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="examen1.adivinacumple">
+    <ContentPage.Content>
+        <StackLayout Background="#61615D">
+            <Frame BackgroundColor="Black" Padding="24" CornerRadius="0" HorizontalOptions="Center">
+                <Label Text="¡RETAME!           ADIVINO TU FECHA DE  CUMPLEANOS: " HorizontalOptions="CenterAndExpand" TextColor="White" FontSize="30"/>
+            </Frame>
+            <Label Text="Piense en el dia que nacio: " Padding="30,0,30,0" FontSize="16" TextColor="Black" Background="Lightblue"/>
+            <Label Text="Ahora ese numero multipliquelo por 20: " Padding="30,0,30,0" FontSize="16" TextColor="Black" Background="pink"/>
+            <Label Text="Al resultado de la multiplicación sumele 73: " Padding="30,0,30,0" FontSize="16" TextColor="Black" Background="#D9AFE7" />
+            <Label Text="El resultado multipliquelo por 5: " Padding="30,0,30,0" FontSize="16" TextColor="Black" Background="Lightblue"/>
+            <Label Text="Al resultado de la multiplicación sumele el numero de mes en que nacio: " Padding="30,0,30,0" FontSize="16" TextColor="Black" Background="pink" />
+            
+            
+            <Label Text="Ingrese el resultado de todas las operaciones anteriores: " Padding="30,0,30,0" FontSize="16" HorizontalOptions="CenterAndExpand" TextColor="White"/>
+
+            <Entry Placeholder="Ingrese el resultado" x:Name="numero1" HorizontalOptions="Center" Keyboard="Numeric"/>
+            <Label Text="DIA DE SU CUMPLEAÑOS: " Padding="30,0,30,0" FontSize="16" TextColor="White" />
+            <Entry Placeholder="su dia cumpleaños es: " x:Name="dias" HorizontalOptions="Center" IsEnabled="False"/>
+            <Label Text="MES DE SU CUMPLEAÑOS: " Padding="30,0,30,0" FontSize="16" TextColor="White" />
+            <Entry Placeholder="su mes cumpleaños es: " x:Name="mese" HorizontalOptions="Center" IsEnabled="False"/>
+            <Button Text="Adivinar" Clicked="Button_Clicked_2" HorizontalOptions="Center" Background="black" TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
