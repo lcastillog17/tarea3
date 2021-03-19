@@ -1,0 +1,13 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\bin\Debug\netcoreapp3.1\clase 6 poo thread.sleep.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\bin\Debug\netcoreapp3.1\clase 6 poo thread.sleep.deps.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\bin\Debug\netcoreapp3.1\clase 6 poo thread.sleep.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\bin\Debug\netcoreapp3.1\clase 6 poo thread.sleep.runtimeconfig.dev.json
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\bin\Debug\netcoreapp3.1\clase 6 poo thread.sleep.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\bin\Debug\netcoreapp3.1\clase 6 poo thread.sleep.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\obj\Debug\netcoreapp3.1\clase 6 poo thread.sleep.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\obj\Debug\netcoreapp3.1\clase 6 poo thread.sleep.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\obj\Debug\netcoreapp3.1\clase 6 poo thread.sleep.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\obj\Debug\netcoreapp3.1\clase 6 poo thread.sleep.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\obj\Debug\netcoreapp3.1\clase 6 poo thread.sleep.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\obj\Debug\netcoreapp3.1\clase 6 poo thread.sleep.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 6 poo\clase 6 poo thread.sleep\clase 6 poo thread.sleep\obj\Debug\netcoreapp3.1\clase 6 poo thread.sleep.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ejemplo 2 clase 6 poo/1.0.0": {
+        "runtime": {
+          "ejemplo 2 clase 6 poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejemplo 2 clase 6 poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
