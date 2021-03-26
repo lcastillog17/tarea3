@@ -1,0 +1,15 @@
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\bin\Debug\clase 7 poo inicio.exe.config
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\bin\Debug\clase 7 poo inicio.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\bin\Debug\clase 7 poo inicio.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\clase 7 poo inicio.csprojAssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\clase_7_poo_inicio.Form1.resources
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\clase_7_poo_inicio.Properties.Resources.resources
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\clase 7 poo inicio.csproj.GenerateResource.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\clase 7 poo inicio.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\clase 7 poo inicio.exe
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\clase 7 poo inicio.pdb
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\Interop.WMPLib.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\obj\Debug\clase 7 poo inicio.csproj.ResolveComReference.cache
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\bin\Debug\Interop.WMPLib.dll
+C:\Users\linda\Desktop\umg linda daniela\semestre 3\progra 1\clase 7 poo inicio\clase 7 poo inicio\clase 7 poo inicio\bin\Debug\AxInterop.WMPLib.dll
