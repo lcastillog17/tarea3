@@ -1,0 +1,72 @@
+﻿<Window x:Class="ProyectoFinal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoFinal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1000">
+    <Grid Margin="0,0,2,-21">
+        <TextBox x:Name="txtnuevoNombre" HorizontalAlignment="Left" Height="20" Margin="192,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtnuevoAutor" HorizontalAlignment="Left" Height="20" Margin="318,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtnuevoNumPaginas" HorizontalAlignment="Left" Height="20" Margin="442,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtnuevoPrecio" HorizontalAlignment="Left" Height="20" Margin="568,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtnuevaCategoria" HorizontalAlignment="Left" Height="20" Margin="692,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtnuevaFecha" HorizontalAlignment="Left" Height="20" Margin="818,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <Button x:Name="buttonBuscarCodigo" Content="Buscar" HorizontalAlignment="Left" Margin="774,100,0,0" VerticalAlignment="Top" Width="104" Height="21" Click="buttonBuscarCodigo_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonBuscarAutor" Content="Buscar" HorizontalAlignment="Left" Margin="774,153,0,0" VerticalAlignment="Top" Width="104" Height="21" Click="buttonBuscarAutor_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonBuscarPaginas" Content="Buscar" HorizontalAlignment="Left" Margin="774,180,0,0" VerticalAlignment="Top" Width="104" Height="21" Click="buttonBuscarPaginas_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonBuscarPrecio" Content="Buscar" HorizontalAlignment="Left" Margin="774,206,0,0" VerticalAlignment="Top" Width="104" Height="23" Click="buttonBuscarPrecio_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonBuscarCategoria" Content="Buscar" HorizontalAlignment="Left" Margin="774,234,0,0" VerticalAlignment="Top" Width="104" Height="22" Click="buttonBuscarCategoria_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonBuscarFecha" Content="Buscar" HorizontalAlignment="Left" Margin="774,261,0,0" VerticalAlignment="Top" Width="104" Height="20" Click="buttonBuscarFecha_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonBuscarNombre" Content="Buscar" HorizontalAlignment="Left" Margin="774,126,0,0" VerticalAlignment="Top" Width="104" Height="22" Click="buttonBuscarNombre_Click" FontWeight="SemiBold"/>
+        <TextBox x:Name="txtBuscarCodigo" HorizontalAlignment="Left" Height="19" Margin="646,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtBuscarNombre" HorizontalAlignment="Left" Height="20" Margin="646,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtBuscarAutor" HorizontalAlignment="Left" Height="20" Margin="646,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtPaginaMax" HorizontalAlignment="Left" Height="20" Margin="646,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtPrecioMax" HorizontalAlignment="Left" Height="21" Margin="646,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtBuscarCategoria" HorizontalAlignment="Left" Height="19" Margin="646,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtFechaMax" HorizontalAlignment="Left" Height="19" Margin="646,261,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtFechaMin" HorizontalAlignment="Left" Height="19" Margin="516,261,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtPrecioMin" HorizontalAlignment="Left" Height="21" Margin="516,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <TextBox x:Name="txtPaginaMin" HorizontalAlignment="Left" Height="20" Margin="516,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <Label Content="Buscar por Código" HorizontalAlignment="Left" Margin="332,100,0,0" VerticalAlignment="Top" Width="112" Height="23" FontWeight="SemiBold"/>
+        <Label Content="Buscar por Nombre" HorizontalAlignment="Left" Margin="332,126,0,0" VerticalAlignment="Top" Height="23" FontWeight="SemiBold"/>
+        <Label Content="Buscar por Autor" HorizontalAlignment="Left" Margin="332,153,0,0" VerticalAlignment="Top" Height="23" FontWeight="SemiBold"/>
+        <Label Content="Buscar por Número de Páginas" HorizontalAlignment="Left" Margin="332,180,0,0" VerticalAlignment="Top" Height="23" FontWeight="SemiBold"/>
+        <Label Content="Buscar por Precio" HorizontalAlignment="Left" Margin="332,206,0,0" VerticalAlignment="Top" Height="25" FontWeight="SemiBold"/>
+        <Label Content="Buscar por Categoría" HorizontalAlignment="Left" Margin="332,234,0,0" VerticalAlignment="Top" Height="23" FontWeight="SemiBold"/>
+        <Label Content="Buscar por Fecha de Publicación" HorizontalAlignment="Left" Margin="332,261,0,0" VerticalAlignment="Top" Height="22" FontWeight="SemiBold"/>
+        <Label Content="Buscar Todos los Registros" HorizontalAlignment="Left" Margin="332,73,0,0" VerticalAlignment="Top" Height="23" FontWeight="SemiBold"/>
+        <Label Content="Consultas" HorizontalAlignment="Left" Margin="544,21,0,0" VerticalAlignment="Top" FontSize="24" Height="50" FontWeight="SemiBold" Width="118"/>
+        <Button x:Name="buttonCargarArchivo" Content="Cargar " Margin="66,227,0,0" Click="buttonCargarArchivo_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Width="104" Height="26"/>
+        <Button x:Name="buttonBuscarTodo" Content="Buscar" HorizontalAlignment="Left" Margin="774,74,0,0" VerticalAlignment="Top" Width="104" Height="22" Click="buttonBuscarTodo_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonModificarRegistro" Content="Modificar Registro" HorizontalAlignment="Left" Margin="454,356,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="buttonModificarRegistro_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonAgregarRegistro" Content="Agregar Registro" HorizontalAlignment="Left" Margin="200,356,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="buttonAgregarRegistro_Click" FontWeight="SemiBold"/>
+        <Button x:Name="buttonBorrarRegistro" Content="Borrar Registro" HorizontalAlignment="Left" Margin="704,356,0,0" VerticalAlignment="Top" Width="100" Height="22" Click="buttonBorrarRegistro_Click" FontWeight="SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="192,306,0,0" TextWrapping="Wrap" Text="Nombre" VerticalAlignment="Top" Width="120" TextAlignment="Center" Height="15" FontWeight="SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="318,306,0,0" TextWrapping="Wrap" Text="Autor" VerticalAlignment="Top" Width="120" TextAlignment="Center" Height="15" FontWeight="SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="442,306,0,0" TextWrapping="Wrap" Text="Número de Páginas" VerticalAlignment="Top" Width="120" TextAlignment="Center" Height="15" FontWeight="SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="570,306,0,0" TextWrapping="Wrap" Text="Precio" VerticalAlignment="Top" Width="118" TextAlignment="Center" Height="15" FontWeight="SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="692,306,0,0" TextWrapping="Wrap" Text="Categoría" VerticalAlignment="Top" Width="120" TextAlignment="Center" Height="15" FontWeight="SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="818,306,0,0" TextWrapping="Wrap" Text="Fecha de Publicación" VerticalAlignment="Top" TextAlignment="Center" Height="15" FontWeight="SemiBold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="66,306,0,0" TextWrapping="Wrap" Text="Código" VerticalAlignment="Top" Width="120" TextAlignment="Center" Height="15" FontWeight="SemiBold"/>
+        <TextBlock x:Name="txtCodigo" HorizontalAlignment="Left" Margin="66,325,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="120" TextAlignment="Center" Text="X" IsHitTestVisible="False" Background="Aqua"/>
+        <Button x:Name="buttonImprimirLista" Content="Imprimir Lista" HorizontalAlignment="Left" Margin="454,604,0,0" VerticalAlignment="Top" Width="100" Height="26" Click="buttonImprimirLista_Click" FontWeight="SemiBold"/>
+        <DataGrid AutoGenerateColumns="False" EnableRowVirtualization="True" Height="197" HorizontalAlignment="Left" ItemsSource="{Binding}" Margin="281,402,0,0" Name="DataGridLibros" RowDetailsVisibilityMode="VisibleWhenSelected" VerticalAlignment="Top" Width="450" FontWeight="SemiBold">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="codigoColumn" Binding="{Binding Path=Código}" Header="Código" Width="Auto" />
+                <DataGridTextColumn x:Name="nombreColumn" Binding="{Binding Path=Nombre}" Header="Nombre" Width="Auto" />
+                <DataGridTextColumn x:Name="autorColumn" Binding="{Binding Path=Autor}" Header="Autor" Width="Auto" />
+                <DataGridTextColumn x:Name="numPaginasColumn" Binding="{Binding Path=NúmeroPáginas}" Header="NúmeroPáginas" Width="Auto" />
+                <DataGridTextColumn x:Name="precioColumn" Binding="{Binding Path=Precio}" Header="Precio" Width="Auto" />
+                <DataGridTextColumn x:Name="categoriaColumn" Binding="{Binding Path=Categoría}" Header="Categoría" Width="Auto" />
+                <DataGridTextColumn x:Name="fechaColumn" Binding="{Binding Path=FechaPublicación}" Header="FechaPublicación" Width="Auto" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="buttonConectarSqlServer" Content="Sql Server" HorizontalAlignment="Left" Margin="66,79,0,0" VerticalAlignment="Top" Width="104" Click="buttonConectarSqlServer_Click" Height="28"/>
+        <Button x:Name="buttonConectarMySql" Content="MySql" HorizontalAlignment="Left" Margin="66,121,0,0" VerticalAlignment="Top" Width="104" Height="25" Click="buttonConectarMySql_Click"/>
+        <Label Content="Elegir Base de Datos" HorizontalAlignment="Left" Margin="60,44,0,0" VerticalAlignment="Top" Height="27" FontWeight="SemiBold"/>
+        <Label Content="Cargar Archivo Externo" HorizontalAlignment="Left" Margin="50,194,0,0" VerticalAlignment="Top" Height="26" FontWeight="SemiBold"/>
+    </Grid>
+</Window>
