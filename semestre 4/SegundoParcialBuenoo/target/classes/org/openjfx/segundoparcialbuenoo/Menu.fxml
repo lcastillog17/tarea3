@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" opacity="0.98" prefHeight="604.0" prefWidth="797.0" style="-fx-background-color: gray;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.openjfx.segundoparcialbuenoo.MenuController">
+   <children>
+      <TextField id="txtNombre" fx:id="txtNombre" layoutX="162.0" layoutY="110.0" prefHeight="25.0" prefWidth="114.0" />
+      <TextField id="txtEnero" fx:id="txtEnero" layoutX="284.0" layoutY="110.0" prefHeight="25.0" prefWidth="114.0" />
+      <TextField id="txtFebrero" fx:id="txtFebrero" layoutX="406.0" layoutY="110.0" prefHeight="25.0" prefWidth="114.0" />
+      <TextField id="txtMarzo" fx:id="txtMarzo" layoutX="530.0" layoutY="110.0" prefHeight="25.0" prefWidth="114.0" />
+      <Label layoutX="190.0" layoutY="150.0" prefHeight="40.0" prefWidth="100.0" text="Busque empleado por código:" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="80.0" layoutY="93.0" prefHeight="17.0" prefWidth="59.0" text="Codigo:">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="162.0" layoutY="93.0" prefHeight="17.0" prefWidth="59.0" text="Nombre:">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="284.0" layoutY="93.0" prefHeight="17.0" prefWidth="59.0" text="Enero:">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="406.0" layoutY="93.0" prefHeight="17.0" prefWidth="59.0" text="Febrero:">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="530.0" layoutY="93.0" prefHeight="17.0" prefWidth="59.0" text="Marzo:">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Label id="LblCodigo" fx:id="lblCodigo" layoutX="80.0" layoutY="114.0" prefHeight="17.0" prefWidth="59.0" text="label">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <TextField id="txtBuscaCodigo" fx:id="txtBuscaCodigo" layoutX="299.0" layoutY="157.0" prefHeight="25.0" prefWidth="114.0" />
+      <Button id="ButtonAgregar" fx:id="btnAgregar" layoutX="77.0" layoutY="156.0" mnemonicParsing="false" onAction="#eventAgregar" prefHeight="25.0" prefWidth="86.0" style="-fx-background-color: black;" text="Agregar" textFill="WHITE">
+         <font>
+            <Font name="Trebuchet MS" size="12.0" />
+         </font>
+      </Button>
+      <Button id="ButtonEditar" fx:id="btnEditar" layoutX="494.0" layoutY="156.0" mnemonicParsing="false" onAction="#eventEditar" prefHeight="25.0" prefWidth="59.0" style="-fx-background-color: black;" text="Editar" textFill="WHITE">
+         <font>
+            <Font name="Trebuchet MS" size="12.0" />
+         </font>
+      </Button>
+      <Button id="ButtonEliminar" fx:id="btnEliminar" layoutX="559.0" layoutY="156.0" mnemonicParsing="false" onAction="#eventEliminar" prefHeight="25.0" prefWidth="73.0" style="-fx-background-color: black;" text="Eliminar" textFill="WHITE">
+         <font>
+            <Font name="Trebuchet MS" size="12.0" />
+         </font>
+      </Button>
+      <Label layoutX="18.0" layoutY="220.0" prefHeight="40.0" prefWidth="107.0" text="Ingrese la cantidad a buscar" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <TextField id="txtBuscaCantidad" fx:id="txtBuscaCantidad" layoutX="125.0" layoutY="227.0" prefHeight="25.0" prefWidth="114.0" />
+      <Button id="ButtonBuscarCant" fx:id="btnBuscarCant" layoutX="240.0" layoutY="228.0" mnemonicParsing="false" onAction="#eventBuscarCant" prefHeight="25.0" prefWidth="59.0" style="-fx-background-color: black;" text="Buscar" textFill="WHITE">
+         <font>
+            <Font name="Trebuchet MS" size="12.0" />
+         </font>
+      </Button>
+      <Label id="LblBuscarCantidad" fx:id="LblBuscarCantidad" layoutX="15.0" layoutY="265.0" prefHeight="62.0" prefWidth="310.0" style="-fx-background-color: #666666;" text="." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="309.0" layoutY="214.0" prefHeight="51.0" prefWidth="129.0" text="Ingrese el mes para saber el mayor y menor" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <TextField id="txtBuscaMes" fx:id="txtBuscaMes" layoutX="441.0" layoutY="227.0" prefHeight="25.0" prefWidth="114.0" />
+      <Button id="ButtonMayorMes" fx:id="btnMayorMes" layoutX="561.0" layoutY="227.0" mnemonicParsing="false" onAction="#eventMayorMes" prefHeight="25.0" prefWidth="73.0" style="-fx-background-color: black;" text="Calcular" textFill="WHITE">
+         <font>
+            <Font name="Trebuchet MS" size="12.0" />
+         </font>
+      </Button>
+      <Label id="LblBuscarMayorMenor" fx:id="LblBuscarMayor" layoutX="330.0" layoutY="265.0" prefHeight="62.0" prefWidth="193.0" style="-fx-background-color: #666666;" text="." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Button id="ButtonListar" fx:id="btnListar" layoutX="44.0" layoutY="362.0" mnemonicParsing="false" onAction="#eventListar" prefHeight="25.0" prefWidth="107.0" style="-fx-background-color: black;" text="Listar datos" textFill="WHITE">
+         <font>
+            <Font name="Trebuchet MS" size="12.0" />
+         </font>
+      </Button>
+      <Label alignment="TOP_CENTER" layoutX="223.0" layoutY="30.0" prefHeight="17.0" prefWidth="302.0" text="EMPLEADOS" textAlignment="CENTER" textFill="#68c8dd">
+         <font>
+            <Font name="Verdana Bold" size="35.0" />
+         </font>
+      </Label>
+      <Button id="ButtonBuscarCod" fx:id="btnBuscarCod" layoutX="428.0" layoutY="156.0" mnemonicParsing="false" onAction="#eventBuscarCod" prefHeight="25.0" prefWidth="59.0" style="-fx-background-color: black;" text="Buscar" textFill="WHITE">
+         <font>
+            <Font name="Trebuchet MS" size="12.0" />
+         </font>
+      </Button>
+      <Label layoutX="219.0" layoutY="344.0" prefHeight="25.0" prefWidth="114.0" text="Mayor por tres meses:" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Label id="LblBuscaMayor3" fx:id="LblBuscaMayor3" layoutX="336.0" layoutY="342.0" prefHeight="40.0" prefWidth="253.0" style="-fx-background-color: #666666;" text="." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <Button id="ButtonMayorMes" fx:id="btnMayorTresMeses" layoutX="595.0" layoutY="350.0" mnemonicParsing="false" onAction="#eventMayorTresMeses" prefHeight="25.0" prefWidth="73.0" style="-fx-background-color: black;" text="Calcular" textFill="WHITE">
+         <font>
+            <Font name="Trebuchet MS" size="12.0" />
+         </font>
+      </Button>
+      <Label id="LblBuscarMayorMenor" fx:id="LblBuscarMenor" layoutX="532.0" layoutY="265.0" prefHeight="62.0" prefWidth="204.0" style="-fx-background-color: #666666;" text="." textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Tw Cen MT" size="12.0" />
+         </font>
+      </Label>
+      <TableView fx:id="TvMostrar" layoutX="44.0" layoutY="390.0" prefHeight="200.0" prefWidth="665.0">
+        <columns>
+          <TableColumn fx:id="TvCodigo" prefWidth="86.0" text="Codigo" />
+          <TableColumn fx:id="TvNombre" prefWidth="103.0" text="Nombre" />
+            <TableColumn fx:id="TvEnero" prefWidth="93.0" text="Enero" />
+            <TableColumn fx:id="TvFebrero" minWidth="0.0" prefWidth="90.0" text="Febrero" />
+            <TableColumn fx:id="TvMarzo" prefWidth="88.0" text="Marzo" />
+            <TableColumn fx:id="TvTotal" prefWidth="101.0" text="Total" />
+            <TableColumn fx:id="TvPromedio" prefWidth="103.0" text="Promedio" />
+        </columns>
+      </TableView>
+      <Button id="ButtonRegistrar" fx:id="ButtonRegresar" layoutX="30.0" layoutY="30.0" mnemonicParsing="false" onAction="#eventRegresar" prefHeight="25.0" prefWidth="84.0" style="-fx-background-color: #00035D;" text="Regresar " textFill="WHITE" />
+   </children>
+</AnchorPane>

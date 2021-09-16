@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="380.0" prefWidth="464.0" style="-fx-background-color: #3C3D41;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.openjfx.segundoparcialbuenoo.RegistrarseController">
+   <children>
+      <ImageView fitHeight="108.0" fitWidth="147.0" layoutX="178.0" layoutY="18.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@imagen/avatar.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="189.0" layoutY="126.0" prefHeight="27.0" prefWidth="120.0" text="Registrate" textAlignment="CENTER" textFill="#f2eeee">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField id="txtUsuarioR" fx:id="txtUsuarioR" layoutX="134.0" layoutY="185.0" prefHeight="28.0" prefWidth="210.0" />
+      <Label layoutX="134.0" layoutY="168.0" prefHeight="17.0" prefWidth="98.0" text="Usuario:" textAlignment="CENTER" textFill="#f2eeee" />
+      <Label layoutX="134.0" layoutY="219.0" prefHeight="17.0" prefWidth="98.0" text="Contraseña:" textAlignment="CENTER" textFill="#f2eeee" />
+      <Button id="ButtonRegistrar" fx:id="ButtonRegistrar" layoutX="183.0" layoutY="333.0" mnemonicParsing="false" onAction="#eventRegistrarse" prefHeight="25.0" prefWidth="84.0" style="-fx-background-color: #00035D;" text="Registrarme" textFill="WHITE" />
+      <Label layoutX="134.0" layoutY="271.0" prefHeight="17.0" prefWidth="133.0" text="Confirmar contraseña:" textAlignment="CENTER" textFill="#f2eeee" />
+      <PasswordField fx:id="pwdContraR" layoutX="134.0" layoutY="236.0" prefHeight="28.0" prefWidth="210.0" />
+      <PasswordField fx:id="pwdConfirmaContraR" layoutX="134.0" layoutY="288.0" prefHeight="28.0" prefWidth="210.0" />
+      <Button id="ButtonRegistrar" fx:id="ButtonRegresar" layoutX="26.0" layoutY="27.0" mnemonicParsing="false" onAction="#eventRegresar" prefHeight="25.0" prefWidth="84.0" style="-fx-background-color: #00035D;" text="Regresar " textFill="WHITE" />
+   </children>
+</AnchorPane>
