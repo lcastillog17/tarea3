@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Eliminar Datos</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="static/css/diseno.css" th:href="@{/css/diseno.css}">
+    </head>
+    <body>
+        <div><h1>Eliminar Datos</h1></div>
+            <div th:if="${empleados != null and !empleados.empty}">
+            <table border="1" class="tablita">
+                <tr>
+                    <th>Codigo</th>
+                    <th>Nombre</th>
+
+                </tr>
+
+                <!-- vamos hacer una iteracion de objeto -->
+                <tr th:each="empleado : ${empleados}">
+                    <td th:text="${empleado.codigo}"></td>
+                    <td th:text="${empleado.nombre}"></td>
+
+                </tr>
+            </table>
+           <form action="eliminarEmpleado" method="post">
+           <table border="1" class="tablitadatos">
+                    <tr>
+                    <td><label for="codigo">Código del que desea eliminar: </label></td>
+                    <td><input type="number" name="codigo"></input></td>
+                    </tr>
+                     <tr>
+                        <td></td>
+                        <td><input type="submit" value="Eliminar"></input></td>
+                    </tr>
+             </table>
+               </form>
+                 <p th:text = "${msg}"></p>
+ <a href="http://www.localhost:8080"><input type="button" value="Regresar"></a>
+        </div>
+
+        <div th:if ="${empleados ==null or empleados.empty}">
+            no hay cuates.
+             <a href="http://www.localhost:8080"><input type="button" value="Regresar"></a>
+        </div>
+         
+    </body>
+</html>

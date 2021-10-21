@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/10/2021, 23:01:22
+    Author     : linda
+*/
+:root {
+    --primary: #7C7B6C; /*variables rgb(62, 202, 202);*/
+    --secondary: #D0D3D4;
+}
+
+* {
+    background-color: var(--secondary);
+    text-align: center;
+}
+
+.contenedor {
+    background-color: var(--primary);
+    display: flex;
+    flex-direction: column;
+    max-width: 375px;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 15px;
+    border: 1px solid black;
+    text-align: center;
+}
+  label, caption, p,input, button, caption {
+    background-color: #85929E;
+        text-align: center;
+}
+h1 {
+  background-color: var(--secondary)  ;
+      text-align: center;
+}
+
+input, button, caption {
+    border-radius: 5px;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    font-size: large;
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    margin:auto;
+    max-width: 400px
+}
+
+.tablita {
+    text-align: center;
+    border-radius: 5px;
+    background-color: black;
+    
+}
+.tablitadatos{
+    text-align: center;
+    border-radius: 5px;
+    border:none;
+    background-color: var(--secondary);
+}
+.divdetablita{
+    margin:auto;
+    max-width: 400px;
+}
+
